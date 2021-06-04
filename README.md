@@ -1,2 +1,2 @@
-# Regulator-P
-Projekt Arduino. Regulator ma za zadanie uzyskanie zadanej odległości dalmierza od ramienia zamontowanego na silniku. 
+# Proportional-controller
+Arduino project. The controller is keeping the desired distance between the ultrasonic sensor and arm attached to a motor.
